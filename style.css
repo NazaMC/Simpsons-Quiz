@@ -1,0 +1,25 @@
+body {
+  height: 100%;
+  width: 100%;
+      font-family: "Rampart One";
+    background-color: #C3B1E1;
+    text-align: center;
+}
+h3{
+  font-family: "Signika Negative";
+}
+h4{
+  font-family: "Signika Negative";
+}
+
+img {
+   border: 7px groove #b46bdb;
+    width: 400px;
+}
+
+.questions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
