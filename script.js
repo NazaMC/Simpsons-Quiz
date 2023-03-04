@@ -1,9 +1,5 @@
 let button = document.querySelector("button");
 let body = document.querySelector("body");
-let lisa = document.querySelector(".lisa");
-let bart = document.querySelector(".bart");
-let marge = document.querySelector(".marge");
-let homer = document.querySelector(".homer");
 
 console.log("button: ", button);
 
